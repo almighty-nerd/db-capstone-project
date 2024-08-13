@@ -1,0 +1,1001 @@
+geo_id,City,Country,Postal Code,Country Code
+1,Alah SÄy,Afghanistan,-1.30E+07,AF
+2,DÅ« LaÄ«nah,Afghanistan,52093670,AF
+3,Dowr-e RabÄÅ£,Afghanistan,993-0041,AF
+4,Karukh,Afghanistan,987-0374,AF
+5,KhÄnaqÄh,Afghanistan,-2.70E+07,AF
+6,MutÄ KhÄn,Afghanistan,353764,AF
+7,NahrÄ«n,Afghanistan,46072655,AF
+8,Pul-e SangÄ«,Afghanistan,-2.20E+07,AF
+9,GosÃ« e Madhe,Albania,388 01,AL
+10,GradishtÃ«,Albania,16306986,AL
+11,GrudÃ«-FushÃ«,Albania,3810-778,AL
+12,Kastrat,Albania,33627,AL
+13,LukovÃ«,Albania,33638,AL
+14,Mesopotam,Albania,353770,AL
+15,MoglicÃ«,Albania,649-6349,AL
+16,Orikum,Albania,53735765,AL
+17,Almafuerte,Argentina,60304145,AR
+18,Arias,Argentina,-7890049,AR
+19,Arias,Argentina,993-0068,AR
+20,Comallo,Argentina,31503762,AR
+21,Corralito,Argentina,59209415,AR
+22,Corrientes,Argentina,10049490,AR
+23,General JosÃ© de San MartÃ­n,Argentina,366 01,AR
+24,JesÃºs MarÃ­a,Argentina,353761,AR
+25,La Calera,Argentina,356 01,AR
+26,La Clotilde,Argentina,402 01,AR
+27,La Rioja,Argentina,353720,AR
+28,Libertador General San MartÃ­n,Argentina,33291618,AR
+29,Marull,Argentina,-2.00E+07,AR
+30,OberÃ¡,Argentina,353730,AR
+31,PalpalÃ¡,Argentina,692793,AR
+32,Vera,Argentina,35973402,AR
+33,Villa de Soto,Argentina,39102150,AR
+34,Hatsâ€™avan,Armenia,987-0399,AM
+35,Marmashen,Armenia,649-6341,AM
+36,Spandaryan,Armenia,30162870,AM
+37,Vanadzor,Armenia,51170178,AM
+38,Yeghegnut,Armenia,1557174,AM
+39,Salzburg,Austria,987-0366,AT
+40,Ujar,Azerbaijan,987-0406,AZ
+41,Verkhniy Dashkesan,Azerbaijan,649-6366,AZ
+42,Zabrat,Azerbaijan,-207745,AZ
+43,Sitrah,Bahrain,3810-818,BH
+44,ChhÄgalnÄiya,Bangladesh,-2.70E+07,BD
+45,Kushtia,Bangladesh,-2.20E+07,BD
+46,Morrelgonj,Bangladesh,993-0054,BD
+47,NÄlchiti,Bangladesh,649-6333,BD
+48,Nowlamary,Bangladesh,993-0072,BD
+49,Gomel,Belarus,38655186,BY
+50,Haradzyeya,Belarus,987-0354,BY
+51,Kastsyukovichy,Belarus,10943418,BY
+52,Kokhanava,Belarus,993-0058,BY
+53,Sasnovy Bor,Belarus,33648,BY
+54,Syanno,Belarus,649-6381,BY
+55,Hamilton,Bermuda,-1.10E+07,BM
+56,Cliza,Bolivia,649-6355,BO
+57,Lintaca,Bolivia,29651705,BO
+58,LijeÅ¡nica,Bosnia and Herzegovina,33653,BA
+59,Svojat,Bosnia and Herzegovina,353735,BA
+60,Mogoditshane,Botswana,33623,BW
+61,AÃ§ucena,Brazil,987-0359,BR
+62,Amparo,Brazil,-1.70E+07,BR
+63,Aracruz,Brazil,3810-775,BR
+64,Belo Jardim,Brazil,-1.10E+07,BR
+65,BiguaÃ§u,Brazil,11837346,BR
+66,CambuÃ­,Brazil,993-0033,BR
+67,Canutama,Brazil,-1.30E+07,BR
+68,Conde,Brazil,649-6356,BR
+69,CordeirÃ³polis,Brazil,26367515,BR
+70,Coronel Vivida,Brazil,-6289569,BR
+71,Correia Pinto,Brazil,987-0407,BR
+72,Cruz Alta,Brazil,692774,BR
+73,Cruz Alta,Brazil,403 01,BR
+74,FlorianÃ³polis,Brazil,-1.80E+07,BR
+75,Forquilhinha,Brazil,993-0042,BR
+76,IjuÃ­,Brazil,6473778,BR
+77,Ipojuca,Brazil,-2.50E+07,BR
+78,Iranduba,Brazil,3810-811,BR
+79,Itapissuma,Brazil,3810-797,BR
+80,JacareÃ­,Brazil,649-6383,BR
+81,Jequitinhonha,Brazil,353743,BR
+82,Juazeiro do Norte,Brazil,-3408705,BR
+83,LenÃ§Ã³is Paulista,Brazil,649-6370,BR
+84,Limoeiro de Anadia,Brazil,27928050,BR
+85,Lorena,Brazil,692772,BR
+86,Manaus,Brazil,33635,BR
+87,MaracanaÃº,Brazil,-2.60E+07,BR
+88,Mocajuba,Brazil,353739,BR
+89,Nossa Senhora do Socorro,Brazil,987-0392,BR
+90,Piritiba,Brazil,381 01,BR
+91,Posse,Brazil,649-6375,BR
+92,Ribas do Rio Pardo,Brazil,353762,BR
+93,Santa Maria,Brazil,-2.50E+07,BR
+94,Sete Lagoas,Brazil,33677,BR
+95,Tabatinga,Brazil,692820,BR
+96,TaboÃ£o da Serra,Brazil,692787,BR
+97,TelÃªmaco Borba,Brazil,17647878,BR
+98,TeresÃ³polis,Brazil,649-6379,BR
+99,Torres,Brazil,353772,BR
+100,Sapouy,Burkina Faso,-1.60E+07,BF
+101,Limbe,Cameroon,649-6382,CM
+102,Assiniboia,Canada,692786,CA
+103,Golden,Canada,353722,CA
+104,Lac du Bonnet,Canada,43335830,CA
+105,Markham,Canada,33645,CA
+106,Mirabel,Canada,36867330,CA
+107,Mont-Royal,Canada,649-6327,CA
+108,North Bay,Canada,987-0403,CA
+109,Olds,Canada,24799302,CA
+110,Saint-AndrÃ©-Avellin,Canada,353773,CA
+111,Smoky Lake,Canada,-1.70E+07,CA
+112,Swan Hills,Canada,3810-803,CA
+113,Viking,Canada,16514945,CA
+114,Ouango,Central African Republic,33641,CF
+115,San Pedro de Atacama,Chile,395 01,CL
+116,Baidian,China,15420215,CN
+117,Baisangguan,China,987-0353,CN
+118,Baitian,China,993-0044,CN
+119,Baiyun,China,374 01,CN
+120,Baojiadian,China,-1.30E+07,CN
+121,Beigang,China,62493605,CN
+122,Caidian,China,-1.00E+07,CN
+123,Chadian,China,692799,CN
+124,Chengnan,China,-2.60E+07,CN
+125,Chenyangzhai,China,987-0377,CN
+126,Daâ€™anshan,China,1736090,CN
+127,Daba,China,3810-813,CN
+128,Dadian,China,-2.10E+07,CN
+129,Dalubian,China,353753,CN
+130,Daohe,China,64135700,CN
+131,Dapuchaihe,China,987-0379,CN
+132,Daruoyan,China,993-0031,CN
+133,Datong,China,3810-777,CN
+134,Delong,China,60851510,CN
+135,Dengtang,China,649-6334,CN
+136,Donggou,China,-1.80E+07,CN
+137,Dongxin,China,3791994,CN
+138,Dongxin,China,3810-793,CN
+139,Dongzaogang,China,364 01,CN
+140,Duqu,China,37314815,CN
+141,Fengping,China,3810-785,CN
+142,Fenhe,China,27462245,CN
+143,Fenjie,China,384 01,CN
+144,Fenkeng,China,26140194,CN
+145,Fuyang,China,649-6326,CN
+146,Gangbian,China,389 01,CN
+147,Gaoping,China,649-6357,CN
+148,Guanchao,China,993-0076,CN
+149,Guangfu,China,-2.00E+07,CN
+150,Guangshun,China,649-6330,CN
+151,Gucheng,China,987-0362,CN
+152,Guilin,China,353734,CN
+153,Gunziying,China,13178238,CN
+154,Hancheng,China,993-0035,CN
+155,Haoxue,China,357 01,CN
+156,Hebei,China,649-6354,CN
+157,Hedong,China,649-6381,CN
+158,Hengli,China,-4689089,CN
+159,Heshan,China,3810-770,CN
+160,Hetian,China,408 01,CN
+161,Hexi,China,993-0056,CN
+162,Hexing,China,-6609665,CN
+163,Hongtang,China,987-0382,CN
+164,Hongwei,China,56472590,CN
+165,Huaishu,China,993-0080,CN
+166,Huangcun,China,352 01,CN
+167,Huangjin,China,692814,CN
+168,Huangzhan,China,-5009185,CN
+169,Huangzhawan,China,30199070,CN
+170,Huangzhou,China,390 01,CN
+171,Huolianpo,China,373 01,CN
+172,Hushi,China,-2.40E+07,CN
+173,Huxiaoqiao,China,61946240,CN
+174,Jangdam,China,692817,CN
+175,Jetaral,China,33668,CN
+176,Jiangkou,China,33676,CN
+177,Jiangya,China,41336970,CN
+178,Jiaotan,China,-1.20E+07,CN
+179,Jielin,China,692815,CN
+180,Jijiang,China,987-0380,CN
+181,Jindou,China,-2.20E+07,CN
+182,Jinhai,China,987-0355,CN
+183,Jinsha,China,48262115,CN
+184,Jinshi,China,370 01,CN
+185,Junxi,China,353759,CN
+186,Kuandian,China,48935358,CN
+187,Kuzhu,China,993-0032,CN
+188,Lang,China,987-0365,CN
+189,Layu,China,3810-817,CN
+190,Leigu,China,-2.00E+07,CN
+191,Liangjing,China,6662375,CN
+192,Liangkou,China,3810-774,CN
+193,Libei,China,2004138,CN
+194,Linggou,China,39996078,CN
+195,Lingquan,China,373 01,CN
+196,Longhua,China,35672720,CN
+197,Longhuashan,China,358 01,CN
+198,Longju,China,22535960,CN
+199,Longsheng,China,3810-795,CN
+200,Longtang,China,386 01,CN
+201,Longtian,China,366 01,CN
+202,Longzui,China,33620,CN
+203,Luyang,China,649-6335,CN
+204,Mafang,China,390 01,CN
+205,Mahekou,China,-4368993,CN
+206,Matangshan,China,354 01,CN
+207,Mayong,China,649-6374,CN
+208,Mayuan,China,3810-766,CN
+209,Meishan,China,370 01,CN
+210,Miaotang,China,993-0071,CN
+211,Miliangju,China,692781,CN
+212,Muzhijie,China,33631,CN
+213,Nancheng,China,360 01,CN
+214,Nangang,China,353721,CN
+215,Nankengzi,China,987-0376,CN
+216,Nanping,China,-1.20E+07,CN
+217,Nansheng,China,649-6337,CN
+218,Pantian,China,402 01,CN
+219,Pingshan,China,29268942,CN
+220,Pujijie,China,33646,CN
+221,Qianyou,China,358 01,CN
+222,Qiaodong,China,987-0381,CN
+223,Qiaozi,China,649-6357,CN
+224,Qingshan,China,353715,CN
+225,Qinling Jieban,China,403 01,CN
+226,Qinxi,China,993-0055,CN
+227,Rulong,China,394 01,CN
+228,Sandaoba,China,649-6338,CN
+229,Sangba,China,993-0049,CN
+230,Sanshan,China,-1328081,CN
+231,Shangcai Zhongxing,China,-9650577,CN
+232,Shanglaxiu,China,33636,CN
+233,Shangwuzhuang,China,649-6372,CN
+234,Shawan,China,4238958,CN
+235,Shengrenjian,China,993-0053,CN
+236,Shensuo,China,-687889,CN
+237,Shentang,China,396 01,CN
+238,Shiban,China,43124826,CN
+239,Shijia,China,3810-808,CN
+240,Shijiao,China,385 01,CN
+241,Shilong,China,20776626,CN
+242,Shiquan,China,649-6368,CN
+243,Shouxihu,China,649-6380,CN
+244,Shuangfeng,China,649-6361,CN
+245,Shuangqiao,China,692770,CN
+246,Shuikou,China,10493930,CN
+247,Shuiting,China,6920742,CN
+248,Shuiting,China,649-6331,CN
+249,Sijing,China,3810-782,CN
+250,Talin Hiag,China,52511070,CN
+251,Tanzhou,China,33483260,CN
+252,Tiancheng,China,692794,CN
+253,Tianhekou,China,692813,CN
+254,Tuopu,China,993-0037,CN
+255,Wutong,China,361 01,CN
+256,Wuxue Shi,China,23630690,CN
+257,Xiadu,China,993-0083,CN
+258,Xiaji,China,13625202,CN
+259,Xiaogang,China,649-6363,CN
+260,Xiaosong,China,353763,CN
+261,Xin Bulag,China,-2.60E+07,CN
+262,Xincheng,China,-2.00E+07,CN
+263,Xinglongchang,China,3810-815,CN
+264,Xingtan,China,31841165,CN
+265,Xinhua,China,33667,CN
+266,Yanghu,China,353742,CN
+267,Yanghuxiang,China,-4529041,CN
+268,Yangying,China,987-0393,CN
+269,Yangyong,China,382 01,CN
+270,Yangyong,China,649-6356,CN
+271,Yanshang,China,-1.20E+07,CN
+272,Yanxi,China,407 01,CN
+273,Yejia,China,-3088609,CN
+274,Yongâ€™an,China,44912682,CN
+275,Yongchang,China,649-6359,CN
+276,Yongning,China,-2.00E+07,CN
+277,Youcheng,China,21223590,CN
+278,Youchou,China,-1488129,CN
+279,Yudaikelike,China,-4208945,CN
+280,Yuejin,China,-3568753,CN
+281,Yueyang,China,353737,CN
+282,Yushikalasu,China,649-6332,CN
+283,Zala,China,18157040,CN
+284,Zaoshi,China,649-6365,CN
+285,Zhangfeng,China,376 01,CN
+286,Zhanjiang,China,-2.30E+07,CN
+287,Zhaoyuan,China,32397690,CN
+288,Zhengcun,China,33642,CN
+289,Zhenlong,China,353729,CN
+290,Zhiqu,China,-2.10E+07,CN
+291,Zhongbao,China,3810-794,CN
+292,Zhongluotan,China,993-0086,CN
+293,Zhongshanmen,China,42241100,CN
+294,Zhongtang,China,987-0410,CN
+295,Zhongxin,China,987-0372,CN
+296,Zhouhe,China,26587158,CN
+297,Zhoukou,China,18094842,CN
+298,Zhuangbian,China,692801,CN
+299,Zhuhu,China,-47696.7,CN
+300,Ziketan,China,649-6377,CN
+301,Balboa,Colombia,46620020,CO
+302,Barrancas,Colombia,49904210,CO
+303,Dos Quebradas,Colombia,-1.40E+07,CO
+304,Florencia,Colombia,58114685,CO
+305,GalÃ¡n,Colombia,-1.20E+07,CO
+306,Garagoa,Colombia,-1.90E+07,CO
+307,LÃ©rida,Colombia,46253574,CO
+308,Leticia,Colombia,910008,CO
+309,Molagavita,Colombia,353719,CO
+310,MompÃ³s,Colombia,987-0401,CO
+311,Palmira,Colombia,-1.30E+07,CO
+312,San Francisco,Colombia,33656,CO
+313,Villa del Rosario,Colombia,400 01,CO
+314,Koua,Comoros,389 01,KM
+315,CaÃ±as,Costa Rica,6026814,CR
+316,Bapska,Croatia,53188400,HR
+317,GareÅ¡nica,Croatia,355 01,HR
+318,Osekovo,Croatia,-2768513,HR
+319,Smokvica,Croatia,23458410,HR
+320,Zdenci,Croatia,-2.50E+07,HR
+321,Condado,Cuba,38208222,CU
+322,Cruces,Cuba,649-6371,CU
+323,Niquero,Cuba,33663,CU
+324,Santiago de Cuba,Cuba,353744,CU
+325,ViÃ±ales,Cuba,692818,CU
+326,BÄ›lÃ¡ pod BezdÄ›zem,Czech Republic,407 01,CZ
+327,Batelov,Czech Republic,993-0043,CZ
+328,DobÅ™Ã­v,Czech Republic,3810-804,CZ
+329,DolnÃ­ DvoÅ™iÅ¡tÄ›,Czech Republic,398 01,CZ
+330,FrantiÅ¡kovy LÃ¡znÄ›,Czech Republic,352 01,CZ
+331,Hradec KrÃ¡lovÃ©,Czech Republic,987-0358,CZ
+332,KlenÄÃ­ pod ÄŒerchovem,Czech Republic,377 01,CZ
+333,KoryÄany,Czech Republic,-8850337,CZ
+334,NovÃ¡ Role,Czech Republic,649-6360,CZ
+335,OpaÅ™any,Czech Republic,36767450,CZ
+336,Pardubice,Czech Republic,33632,CZ
+337,VelkÃ© Pavlovice,Czech Republic,993-0084,CZ
+338,VysokÃ© nad Jizerou,Czech Republic,33659,CZ
+339,ZabruÅ¡any,Czech Republic,993-0057,CZ
+340,Kasangulu,Democratic Republic of the Congo,993-0048,CD
+341,Kindu,Democratic Republic of the Congo,692777,CD
+342,Bajos de Haina,Dominican Republic,33624,DO
+343,Cayambe,Ecuador,52641035,EC
+344,Manta,Ecuador,3810-783,EC
+345,PiÃ±as,Ecuador,649-6367,EC
+346,Sucre,Ecuador,692811,EC
+347,á¸¨awsh â€˜ÄªsÃ¡,Egypt,14966094,EG
+348,Kohila,Estonia,355 01,EE
+349,Felege Neway,Ethiopia,35125355,ET
+350,Maychâ€™ew,Ethiopia,-1808225,ET
+351,KittilÃ¤,Finland,364 01,FI
+352,NurmijÃ¤rvi,Finland,-1.40E+07,FI
+353,Valtimo,Finland,692802,FI
+354,Vihti,Finland,3810-779,FI
+355,Ã‰pinal,France,649-6380,FR
+356,Ã‰vreux,France,24178055,FR
+357,Aix-en-Provence,France,993-0081,FR
+358,AlenÃ§on,France,33658,FR
+359,Aulnay-sous-Bois,France,-2.40E+07,FR
+360,BrÃ©tigny-sur-Orge,France,-1.40E+07,FR
+361,Cholet,France,993-0060,FR
+362,Forbach,France,692827,FR
+363,Le Raincy,France,-1.50E+07,FR
+364,Lorient,France,353738,FR
+365,Lyon,France,649-6351,FR
+366,Mont-de-Marsan,France,14519130,FR
+367,Montauban,France,22564482,FR
+368,MontbÃ©liard,France,649-6358,FR
+369,MontbÃ©liard,France,987-0395,FR
+370,Mundolsheim,France,649-6375,FR
+371,Nuits-Saint-Georges,France,353767,FR
+372,PÃ©rigny,France,-2.50E+07,FR
+373,Paris 01,France,-5809425,FR
+374,Paris 18,France,34577990,FR
+375,Rennes,France,649-6367,FR
+376,Rouen,France,353765,FR
+377,Royan,France,-2.30E+07,FR
+378,Saint-Avold,France,649-6347,FR
+379,Saint-Claude,France,649-6337,FR
+380,Saint-Leu-la-ForÃªt,France,649-6340,FR
+381,Saint-Malo,France,649-6329,FR
+382,Saumur,France,649-6350,FR
+383,Villeneuve-lÃ¨s-Avignon,France,3810-796,FR
+384,Voiron,France,-1648177,FR
+385,Abuko,Gambia,3810-816,GM
+386,Nyamanari,Gambia,692783,GM
+387,Pateh Sam,Gambia,-2.70E+07,GM
+388,Sankwia,Gambia,28009610,GM
+389,Sokhumi,Georgia,993-0069,GE
+390,Augsburg,Germany,63588335,DE
+391,Bielefeld,Germany,33619,DE
+392,DÃ¼sseldorf,Germany,367 01,DE
+393,Hamburg Bramfeld,Germany,3810-805,DE
+394,Stuttgart,Germany,649-6359,DE
+395,Ho,Ghana,33625,GH
+396,Wassa-Akropong,Ghana,391 01,GH
+397,DrosiÃ¡,Greece,371 01,GR
+398,KalÃ¡vryta,Greece,649-6342,GR
+399,KassÃ¡ndreia,Greece,-2608465,GR
+400,KatoÃºna,Greece,-8370193,GR
+401,KavallÃ¡ri,Greece,-2.30E+07,GR
+402,LidorÃ­ki,Greece,3810-784,GR
+403,MethÃ³ni,Greece,649-6368,GR
+404,MorfovoÃºni,Greece,42230898,GR
+405,PigÃ­,Greece,649-6348,GR
+406,RodotÃ³pi,Greece,13778120,GR
+407,TraganÃ³n,Greece,-2.30E+07,GR
+408,VÃ¡ri,Greece,32935895,GR
+409,VÃ³los,Greece,376 01,GR
+410,Chiantla,Guatemala,392 01,GT
+411,El JÃ­caro,Guatemala,362 01,GT
+412,Guanagazapa,Guatemala,353733,GT
+413,Palencia,Guatemala,378 01,GT
+414,Carbajales,Honduras,993-0067,HN
+415,El Triunfo de la Cruz,Honduras,2283455,HN
+416,Trujillo,Honduras,37761258,HN
+417,Zamora,Honduras,993-0040,HN
+418,Budapest,Hungary,-1.10E+07,HU
+419,SzÃ©kesfehÃ©rvÃ¡r,Hungary,-1.80E+07,HU
+420,Abang,Indonesia,-1.50E+07,ID
+421,Baing,Indonesia,649-6351,ID
+422,Banarankrajan,Indonesia,-2.00E+07,ID
+423,Bangil,Indonesia,649-6384,ID
+424,Bangkalan,Indonesia,987-0373,ID
+425,Banjar Kelodan,Indonesia,33652,ID
+426,Basiong,Indonesia,649-6362,ID
+427,Batanghari,Indonesia,-2.70E+07,ID
+428,Batujaran,Indonesia,-1.40E+07,ID
+429,Brongkalan,Indonesia,21441230,ID
+430,Bulu,Indonesia,33674,ID
+431,Bun Barat,Indonesia,-2.20E+07,ID
+432,Cangkreng,Indonesia,692785,ID
+433,Caringin Lor,Indonesia,33672,ID
+434,Ciampea,Indonesia,33651,ID
+435,Cibangun Tengah,Indonesia,33630,ID
+436,Cibaregbeg,Indonesia,45525290,ID
+437,Cilimus Kulon,Indonesia,987-0383,ID
+438,Cipari Satu,Indonesia,-1.70E+07,ID
+439,Citangtu Kaler,Indonesia,649-6369,ID
+440,Dalam,Indonesia,48488394,ID
+441,Dampit,Indonesia,-6929761,ID
+442,Dangbigih,Indonesia,33637,ID
+443,Desa Kertasari,Indonesia,993-0059,ID
+444,Dusun Desa Bunter,Indonesia,33675,ID
+445,Dusun Tengah Cihaurbeuti,Indonesia,993-0051,ID
+446,Ebak,Indonesia,993-0073,ID
+447,Gedangan,Indonesia,14872850,ID
+448,Gersikputih Tengah,Indonesia,386 01,ID
+449,Girijaya,Indonesia,649-6354,ID
+450,Gudang,Indonesia,40599005,ID
+451,Gunungbatu,Indonesia,24352338,ID
+452,Jangkat,Indonesia,6115010,ID
+453,Jelat,Indonesia,3810-761,ID
+454,Jongorsari,Indonesia,47167385,ID
+455,Kaducondong,Indonesia,649-6345,ID
+456,Kalepasan,Indonesia,31950726,ID
+457,Karanganyar,Indonesia,649-6327,ID
+458,Kauhan,Indonesia,649-6355,ID
+459,Kertamukti,Indonesia,1110210,ID
+460,Kertorejo,Indonesia,363 01,ID
+461,Kotaagung,Indonesia,987-0400,ID
+462,Kotabaru,Indonesia,987-0408,ID
+463,Krajan Kedungsalam,Indonesia,33654,ID
+464,Kroya,Indonesia,361 01,ID
+465,Kubangwaru,Indonesia,2451102,ID
+466,Kudang,Indonesia,388 01,ID
+467,Lampa,Indonesia,353732,ID
+468,Lawonda,Indonesia,3810-776,ID
+469,Lela,Indonesia,-8690289,ID
+470,Lembursawah,Indonesia,45359646,ID
+471,Lewobelek,Indonesia,354 01,ID
+472,Loa Janan,Indonesia,36420366,ID
+473,Luti,Indonesia,987-0386,ID
+474,Made,Indonesia,-2.10E+07,ID
+475,Magetlegar,Indonesia,353741,ID
+476,Malunda,Indonesia,-1.70E+07,ID
+477,Marang,Indonesia,987-0405,ID
+478,Mersam,Indonesia,17609675,ID
+479,Mojogajeh,Indonesia,-9170433,ID
+480,Mulandoro,Indonesia,27481086,ID
+481,Mulyoagung,Indonesia,51617142,ID
+482,Nangalimang,Indonesia,33665,ID
+483,Ngarus,Indonesia,3378185,ID
+484,Ngedhusuba,Indonesia,987-0357,ID
+485,Nggambel,Indonesia,-5969473,ID
+486,Nobo,Indonesia,33643,ID
+487,Oenam,Indonesia,353755,ID
+488,Pajaten,Indonesia,993-0078,ID
+489,Pandaan,Indonesia,387 01,ID
+490,Paninggaran,Indonesia,987-0402,ID
+491,Parengan,Indonesia,398 01,ID
+492,Parigi,Indonesia,5132886,ID
+493,Parlilitan,Indonesia,3810-767,ID
+494,Pasar,Indonesia,649-6378,ID
+495,Pasirmukti,Indonesia,3810-772,ID
+496,Pekalongan,Indonesia,3810-786,ID
+497,Pilang,Indonesia,55377860,ID
+498,Pisangkemeng,Indonesia,692773,ID
+499,Rainis,Indonesia,649-6371,ID
+500,Rancapare,Indonesia,649-6329,ID
+501,Rawawilis,Indonesia,57019955,ID
+502,Samanggen,Indonesia,3345030,ID
+503,Sampir,Indonesia,33738582,ID
+504,Sangkulirang,Indonesia,692788,ID
+505,Sarae,Indonesia,38409545,ID
+506,Setono,Indonesia,-9490529,ID
+507,Sidonganti,Indonesia,353724,ID
+508,Singkir,Indonesia,993-0066,ID
+509,Singojuruh,Indonesia,33666,ID
+510,Solok,Indonesia,692826,ID
+511,Sudo,Indonesia,375 01,ID
+512,Sukadana,Indonesia,46700538,ID
+513,Sumberbening,Indonesia,987-0409,ID
+514,Sumberejo,Indonesia,353756,ID
+515,Sumberejo,Indonesia,692795,ID
+516,Sumbersari Wetan,Indonesia,-1968273,ID
+517,Sungi Liput,Indonesia,33673,ID
+518,Suwaru,Indonesia,3810-810,ID
+519,Tabu,Indonesia,1188725,ID
+520,Tebluru,Indonesia,14325485,ID
+521,Telgawah,Indonesia,3810-802,ID
+522,Temorlorong,Indonesia,-3888849,ID
+523,Tetaf,Indonesia,61398875,ID
+524,Tibakisa,Indonesia,692803,ID
+525,Tugu,Indonesia,47714750,ID
+526,Ulimonong,Indonesia,33634,ID
+527,Waiklibang,Indonesia,692784,ID
+528,Waiwukak,Indonesia,9946565,ID
+529,Wonorejo,Indonesia,353751,ID
+530,Garmeh,Iran,692807,IR
+531,ShÄ«rvÄn,Iran,-7409905,IR
+532,ShÄzand,Iran,993-0062,IR
+533,Shiraz,Iran,-9810625,IR
+534,Clifden,Ireland,-2.10E+07,IE
+535,Moville,Ireland,-1.00E+07,IE
+536,Qiryat Yam,Israel,50998940,IL
+537,Napoli,Italy,692819,IT
+538,Napoli,Italy,392 01,IT
+539,Biankouma,Ivory Coast,987-0367,CI
+540,Trinity Ville,Jamaica,353749,JM
+541,Trinity Ville,Jamaica,15860022,JM
+542,ÅŒbu,Japan,649-6363,JP
+543,ÅŒdachÅ-Åda,Japan,55925225,JP
+544,Enzan,Japan,42677862,JP
+545,Fukiage-fujimi,Japan,-7730001,JP
+546,Ginowan,Japan,42788465,JP
+547,HiratachÅ,Japan,-1.60E+07,JP
+548,Hita,Japan,987-0378,JP
+549,Inashiki,Japan,20893865,JP
+550,Izumi,Japan,2830820,JP
+551,Kasugai,Japan,8304470,JP
+552,Katori-shi,Japan,987-0387,JP
+553,Miharu,Japan,993-0052,JP
+554,Motegi,Japan,353726,JP
+555,MukÅ,Japan,692791,JP
+556,Nara-shi,Japan,12136025,JP
+557,Shiogama,Japan,353727,JP
+558,Susaki,Japan,987-0352,JP
+559,Takayama,Japan,993-0087,JP
+560,Takikawa,Japan,-4849137,JP
+561,Wakayama-shi,Japan,649-6326,JP
+562,Yachimata,Japan,692821,JP
+563,Saint Helier,Jersey,692800,JE
+564,BÅ«laevo,Kazakhstan,3810-762,KZ
+565,BayanaÅ«yl,Kazakhstan,353728,KZ
+566,Kostanay,Kazakhstan,43571790,KZ
+567,Oral,Kazakhstan,397 01,KZ
+568,Qulsary,Kazakhstan,993-0034,KZ
+569,ShÄ«eli,Kazakhstan,692823,KZ
+570,Homa Bay,Kenya,3810-800,KE
+571,Keruguya,Kenya,44977925,KE
+572,Kiambu,Kenya,993-0065,KE
+573,Litein,Kenya,391 01,KE
+574,Dranoc,Kosovo,8851835,XK
+575,Bazar-Korgon,Kyrgyzstan,51546305,KG
+576,Naryn,Kyrgyzstan,3810-809,KG
+577,Aloja,Latvia,692805,LV
+578,IkÅ¡Ä·ile,Latvia,21988595,LV
+579,InÄukalns,Latvia,-2.30E+07,LV
+580,Tobruk,Libya,351 01,LY
+581,Å irvintos,Lithuania,-1.80E+07,LT
+582,Vilnius,Lithuania,28375014,LT
+583,Mompach,Luxembourg,33640,LU
+584,Niedercorn,Luxembourg,353723,LU
+585,ÐœÐ°Ñ‚ÐµÑ˜Ñ‡Ðµ,Macedonia,397 01,MK
+586,Fandriana,Madagascar,3810-789,MG
+587,Ikongo,Madagascar,649-6346,MG
+588,Mananjary,Madagascar,649-6339,MG
+589,Dedza,Malawi,44430560,MW
+590,Kota Bharu,Malaysia,63040970,MY
+591,Kota Bharu,Malaysia,649-6364,MY
+592,Kota Kinabalu,Malaysia,649-6378,MY
+593,Kuala Lumpur,Malaysia,374 01,MY
+594,Melaka,Malaysia,377 01,MY
+595,Kudahuvadhoo,Maldives,40443042,MV
+596,NiafunkÃ©,Mali,353740,ML
+597,Niono,Mali,649-6352,ML
+598,YÃ©limanÃ©,Mali,692804,ML
+599,Bel Air RiviÃ¨re SÃ¨che,Mauritius,692778,MU
+600,Chapultepec,Mexico,25820150,MX
+601,El Alamo,Mexico,2898066,MX
+602,El Limon,Mexico,369 01,MX
+603,Emiliano Zapata,Mexico,7367706,MX
+604,Fernando Gutierrez Barrios,Mexico,409 01,MX
+605,Guadalupe,Mexico,28556975,MX
+606,Lazaro Cardenas,Mexico,-2.40E+07,MX
+607,Lazaro Cardenas,Mexico,48041430,MX
+608,Loma Bonita,Mexico,353747,MX
+609,Morelos,Mexico,-367793,MX
+610,Rafael Hernandez Ochoa,Mexico,93995,MX
+611,Houk,Micronesia,-1.60E+07,FM
+612,Lukunor,Micronesia,649-6340,FM
+613,Makur,Micronesia,7814670,FM
+614,Bender,Moldova,372 01,MD
+615,ChiÅŸinÄƒu,Moldova,692782,MD
+616,Criuleni,Moldova,35079474,MD
+617,BodÄ­,Mongolia,-9330481,MN
+618,Buga,Mongolia,-3248657,MN
+619,DzÃ¼Ã¼nkharaa,Mongolia,3810-812,MN
+620,Å avnik,Montenegro,-2.10E+07,ME
+621,MechrÃ¡ Belqsiri,Morocco,-1.50E+07,MA
+622,Rislane,Morocco,-2.60E+07,MA
+623,Tan-Tan,Morocco,379 01,MA
+624,Beira,Mozambique,37862180,MZ
+625,ManhiÃ§a,Mozambique,11390382,MZ
+626,Hpa-an,Myanmar,692797,MM
+627,Kanbe,Myanmar,649-6379,MM
+628,LÃ¼deritz,Namibia,-5489329,NA
+629,Otjiwarongo,Namibia,-2.10E+07,NA
+630,Bhadrapur,Nepal,3810-768,NP
+631,DÄrchulÄ,Nepal,692816,NP
+632,KhÄndbÄri,Nepal,353768,NP
+633,WÄling,Nepal,20346500,NP
+634,Eindhoven,Netherlands,-1.50E+07,NL
+635,Leiden,Netherlands,649-6358,NL
+636,Sneek,Netherlands,353745,NL
+637,Kerikeri,New Zealand,993-0088,NZ
+638,La Jicaral,Nicaragua,-1.50E+07,NI
+639,Matagalpa,Nicaragua,649-6339,NI
+640,Ete,Nigeria,-1.50E+07,NG
+641,Geidam,Nigeria,369 01,NG
+642,Kusheriki,Nigeria,33628,NG
+643,Obiaruku Quarters,Nigeria,367 01,NG
+644,Oji River,Nigeria,3810-764,NG
+645,Pindiga,Nigeria,33619,NG
+646,Pindiga,Nigeria,649-6328,NG
+647,Rijau,Nigeria,10496454,NG
+648,Samamiya,Nigeria,987-0394,NG
+649,Vom,Nigeria,3810-814,NG
+650,Ongjin,North Korea,216282,KP
+651,Sinmak,North Korea,4685922,KP
+652,Oslo,Norway,692822,NO
+653,TromsÃ¸,Norway,993-0047,NO
+654,Ahmadpur SiÄl,Pakistan,-2.60E+07,PK
+655,Kallar KahÄr,Pakistan,649-6344,PK
+656,Karaundi,Pakistan,-1.90E+07,PK
+657,LadhewÄla WarÄich,Pakistan,987-0360,PK
+658,Thatta,Pakistan,47147502,PK
+659,Juá¸©r ad DÄ«k,Palestinian Territory,362 01,PS
+660,El RincÃ³n,Panama,-5649377,PA
+661,Guadalupe,Panama,31293800,PA
+662,La Loma,Panama,353 01,PA
+663,Pueblo Viejo,Panama,351 01,PA
+664,AreguÃ¡,Paraguay,3810-792,PY
+665,Ayabaca,Peru,987-0370,PE
+666,Ayacucho,Peru,41146370,PE
+667,Cancas,Peru,14072166,PE
+668,Ihuari,Peru,16753950,PE
+669,Laramate,Peru,649-6366,PE
+670,MaÃ±azo,Peru,382 01,PE
+671,Motupe,Peru,3810-806,PE
+672,Otuzco,Peru,5567645,PE
+673,Pacaraos,Peru,649-6328,PE
+674,Pilluana,Peru,353752,PE
+675,QuiÃ±ota,Peru,9399200,PE
+676,Quince Mil,Peru,663246,PE
+677,San Antonio,Peru,649-6348,PE
+678,Urcos,Peru,45806610,PE
+679,Agusan,Philippines,372 01,PH
+680,Babatngon,Philippines,23083325,PH
+681,Bagong Pagasa,Philippines,-3728801,PH
+682,Barra,Philippines,-2.50E+07,PH
+683,Biga,Philippines,993-0045,PH
+684,Bislig,Philippines,5020280,PH
+685,Bongao,Philippines,649-6336,PH
+686,Bontoc,Philippines,384 01,PH
+687,Buenavista,Philippines,380 01,PH
+688,Bunawan,Philippines,649-6360,PH
+689,Buracan,Philippines,33633,PH
+690,Cabog,Philippines,987-0397,PH
+691,Calasgasan,Philippines,649-6333,PH
+692,Cantilan,Philippines,649-6352,PH
+693,Capalayan,Philippines,987-0385,PH
+694,Dampol,Philippines,20329662,PH
+695,Danao,Philippines,692798,PH
+696,Hanggan,Philippines,400 01,PH
+697,Kajatian,Philippines,396 01,PH
+698,Lagayan,Philippines,-2288369,PH
+699,Lallayug,Philippines,18704405,PH
+700,Langpas,Philippines,987-0371,PH
+701,Lupao,Philippines,44465718,PH
+702,Malinta,Philippines,49382322,PH
+703,Masipi West,Philippines,33670,PH
+704,New Pandanon,Philippines,54830495,PH
+705,Noling,Philippines,394 01,PH
+706,Panacan,Philippines,993-0085,PH
+707,Pangal Sur,Philippines,378 01,PH
+708,Panitan,Philippines,27034122,PH
+709,Pasian,Philippines,353725,PH
+710,Perrelos,Philippines,649-6372,PH
+711,Pidigan,Philippines,19435734,PH
+712,Salogon,Philippines,987-0404,PH
+713,San Juan,Philippines,33626,PH
+714,Santa Magdalena,Philippines,18541806,PH
+715,Simod,Philippines,3810-769,PH
+716,Tagnanan,Philippines,-9010385,PH
+717,Tambong,Philippines,12284310,PH
+718,Tambulig,Philippines,7757105,PH
+719,Tawala,Philippines,34030625,PH
+720,Tiblawan,Philippines,-2.60E+07,PH
+721,Tinampo,Philippines,33661,PH
+722,Toledo,Philippines,-8050097,PH
+723,Tomingad,Philippines,29715906,PH
+724,Tuburan,Philippines,-2.20E+07,PH
+725,Adamstown,Pitcairn,649-6343,PN
+726,ÅÄ™knica,Poland,47594466,PL
+727,Babice,Poland,-2.40E+07,PL
+728,BÄ™czarka,Poland,993-0061,PL
+729,Bukowiec,Poland,987-0391,PL
+730,Daszewice,Poland,52064106,PL
+731,Grzechynia,Poland,43883195,PL
+732,Jasienica,Poland,-1.30E+07,PL
+733,KÅ‚omnice,Poland,649-6342,PL
+734,Kaliska,Poland,353736,PL
+735,Kortowo,Poland,-2.40E+07,PL
+736,LubieÅ„ Kujawski,Poland,-4048897,PL
+737,Maszkienice,Poland,405 01,PL
+738,Nowe Grocholice,Poland,649-6384,PL
+739,Olszyna,Poland,649-6369,PL
+740,OpatÃ³wek,Poland,-2128321,PL
+741,OstrzeszÃ³w,Poland,649-6353,PL
+742,Pisz,Poland,987-0364,PL
+743,PrzyborÃ³w,Poland,993-0070,PL
+744,Rzeczenica,Poland,29104340,PL
+745,Spytkowice,Poland,375 01,PL
+746,Stepnica,Poland,692790,PL
+747,SzamotuÅ‚y,Poland,649-6365,PL
+748,SzydÅ‚owo,Poland,692824,PL
+749,Ustrzyki Dolne,Poland,987-0369,PL
+750,WohyÅ„,Poland,-1.20E+07,PL
+751,ZÅ‚otniki,Poland,649-6345,PL
+752,Aveiras de Cima,Portugal,987-0368,PT
+753,Azenhas do Mar,Portugal,360 01,PT
+754,Barqueiro,Portugal,993-0050,PT
+755,Boavista,Portugal,-2.50E+07,PT
+756,Boavista,Portugal,8261634,PT
+757,BouÃ§as,Portugal,692810,PT
+758,Carromeu,Portugal,987-0356,PT
+759,Cercal,Portugal,353757,PT
+760,Couto,Portugal,30609834,PT
+761,Cruz,Portugal,54283130,PT
+762,Duas Igrejas,Portugal,993-0038,PT
+763,Farinheiras,Portugal,33662,PT
+764,Figueira,Portugal,32388530,PT
+765,Figueira dos Cavaleiros,Portugal,33629,PT
+766,Figueiredo,Portugal,11041295,PT
+767,Fojo,Portugal,3810-801,PT
+768,Fonte Boa da Brincosa,Portugal,993-0089,PT
+769,Igreja,Portugal,692779,PT
+770,Lamas,Portugal,24725420,PT
+771,Loivos,Portugal,993-0046,PT
+772,Moinhos,Portugal,353754,PT
+773,Outeiro,Portugal,-1.40E+07,PT
+774,PÃ³voa do Valado,Portugal,3810-760,PT
+775,Porto Formoso,Portugal,-1.70E+07,PT
+776,Presa,Portugal,41783934,PT
+777,Quinta da Courela,Portugal,365 01,PT
+778,Refojos,Portugal,36220085,PT
+779,SÃ£o Martinho de Ãrvore,Portugal,25246266,PT
+780,Sabugo,Portugal,692775,PT
+781,Silvares,Portugal,993-0063,PT
+782,Silveiros,Portugal,-5329281,PT
+783,Tojeira,Portugal,50451575,PT
+784,Vales,Portugal,-7089809,PT
+785,Vila Fria,Portugal,649-6336,PT
+786,Vilar,Portugal,987-0388,PT
+787,Saint-Denis,Reunion,649-6353,RE
+788,Aban,Russia,3810-781,RU
+789,BelozÃ«rskoye,Russia,641360,RU
+790,Boguchar,Russia,12683390,RU
+791,Businovo,Russia,5579850,RU
+792,Chelbasskaya,Russia,353715,RU
+793,Chuchkovo,Russia,405 01,RU
+794,Dubrovka,Russia,-1.60E+07,RU
+795,Fershampenuaz,Russia,28821978,RU
+796,Galâ€™bshtadt,Russia,692769,RU
+797,Kamenskiy,Russia,692792,RU
+798,Karpogory,Russia,34632510,RU
+799,Khanino,Russia,50723214,RU
+800,Khatanga,Russia,-1.90E+07,RU
+801,Khuzhir,Russia,9602526,RU
+802,Kizhinga,Russia,4472915,RU
+803,KochenÃ«vo,Russia,3810-790,RU
+804,Kolyvanâ€™,Russia,35526438,RU
+805,Korsakovo,Russia,-1.80E+07,RU
+806,Krasnaya Poyma,Russia,649-6362,RU
+807,Kupavna,Russia,987-0389,RU
+808,Kuznechikha,Russia,401 01,RU
+809,Kyshtym,Russia,-1007985,RU
+810,Leninsk,Russia,993-0036,RU
+811,Leshukonskoye,Russia,-1.20E+07,RU
+812,Mamonovo,Russia,363 01,RU
+813,Mayskiy,Russia,-1.10E+07,RU
+814,Mozhaysk,Russia,993-0079,RU
+815,Nizhniy Tsasuchey,Russia,649-6343,RU
+816,Nizhnyaya Omka,Russia,13230755,RU
+817,Novoderevyankovskaya,Russia,23011446,RU
+818,Novorossiysk,Russia,-847937,RU
+819,Novouzensk,Russia,-1.40E+07,RU
+820,Novoye Leushino,Russia,-8530241,RU
+821,Novozybkov,Russia,-1.90E+07,RU
+822,Novyye Gorki,Russia,-1.30E+07,RU
+823,Ovsyanka,Russia,692771,RU
+824,Petropavlovskaya,Russia,649-6347,RU
+825,Pionerskiy,Russia,-1.70E+07,RU
+826,Podkamennaya Tunguska,Russia,353716,RU
+827,PriozÃ«rsk,Russia,34185546,RU
+828,Prokhorovka,Russia,-7569953,RU
+829,Rakhmanovo,Russia,33669,RU
+830,Samashki,Russia,-1.10E+07,RU
+831,Saskylakh,Russia,-1.90E+07,RU
+832,Shilovo,Russia,38956910,RU
+833,Slavgorod,Russia,406 01,RU
+834,Sosnovka,Russia,353731,RU
+835,Spas-Zaulok,Russia,401 01,RU
+836,Strunino,Russia,987-0390,RU
+837,SychÃ«vo,Russia,18988770,RU
+838,Taksimo,Russia,353766,RU
+839,Terek,Russia,33671,RU
+840,Tisulâ€™,Russia,15413058,RU
+841,Topolâ€™noye,Russia,33644,RU
+842,Tosno,Russia,19251770,RU
+843,Tselinnoye,Russia,649-6349,RU
+844,Tsotsin-Yurt,Russia,993-0074,RU
+845,Ulety,Russia,649-6330,RU
+846,Vazhiny,Russia,649-6383,RU
+847,Velâ€™sk,Russia,3810-787,RU
+848,Vitim,Russia,987-0375,RU
+849,Vladikavkaz,Russia,406 01,RU
+850,Volokolamsk,Russia,-2.20E+07,RU
+851,Volzhsk,Russia,22117518,RU
+852,Voronezh,Russia,409 01,RU
+853,Vyksa,Russia,-1.10E+07,RU
+854,Yazykovo,Russia,-1.00E+07,RU
+855,Zamoskvorechâ€™ye,Russia,-2.10E+07,RU
+856,Zaymishche,Russia,987-0396,RU
+857,Zhukovskiy,Russia,649-6338,RU
+858,Gustavia,Saint Barthelemy,49356845,BL
+859,Laborie,Saint Lucia,987-0363,LC
+860,Malie,Samoa,59756780,WS
+861,Qalâ€˜at BÄ«shah,Saudi Arabia,404 01,SA
+862,TanÅ«mah,Saudi Arabia,399 01,SA
+863,Foundiougne,Senegal,57567320,SN
+864,Koungheul,Senegal,11588660,SN
+865,Novi Slankamen,Serbia,399 01,RS
+866,TomaÅ¡evac,Serbia,368 01,RS
+867,Destrnik,Slovenia,-6129521,SI
+868,Log pri Brezovici,Slovenia,692806,SI
+869,Berbera,Somalia,-1.80E+07,SO
+870,Bergville,South Africa,987-0361,ZA
+871,Claremont,South Africa,381 01,ZA
+872,Hartswater,South Africa,7209740,ZA
+873,Queenstown,South Africa,-1.60E+07,ZA
+874,Queenstown,South Africa,-9970673,ZA
+875,Villiers,South Africa,-7249857,ZA
+876,Changnyeong,South Korea,408 01,KR
+877,Cheongsong gun,South Korea,649-6350,KR
+878,Daegu,South Korea,9155562,KR
+879,Koesan,South Korea,17200914,KR
+880,Cartagena,Spain,993-0064,ES
+881,Elx/Elche,Spain,-1.30E+07,ES
+882,Toledo,Spain,40890006,ES
+883,Ja Ela,Sri Lanka,-1.70E+07,LK
+884,GrÃ¥bo,Sweden,19882698,SE
+885,Hallsberg,Sweden,649-6376,SE
+886,Hallstahammar,Sweden,692796,SE
+887,Helsingborg,Sweden,44018754,SE
+888,Kinna,Sweden,21670554,SE
+889,Kungsbacka,Sweden,23905374,SE
+890,LidingÃ¶,Sweden,649-6376,SE
+891,SkÃ¶vde,Sweden,993-0077,SE
+892,Skara,Sweden,649-6364,SE
+893,Stockholm,Sweden,3925550,SE
+894,Tibro,Sweden,371 01,SE
+895,Uppsala,Sweden,649-6334,SE
+896,VÃ¤nersborg,Sweden,692825,SE
+897,VÃ¤nnÃ¤s,Sweden,33660,SE
+898,VÃ¥rgÃ¥rda,Sweden,32844654,SE
+899,VargÃ¶n,Sweden,993-0082,SE
+900,Vimmerby,Sweden,353769,SE
+901,Ystad,Sweden,353758,SE
+902,Kafr BaÅ£nÄ,Syria,692812,SY
+903,Medaya,Syria,-2928561,SY
+904,Dodoma,Tanzania,30746435,TZ
+905,Bang Rak,Thailand,-6769713,TH
+906,Chumphon,Thailand,379 01,TH
+907,Hang Dong,Thailand,385 01,TH
+908,Huai Mek,Thailand,3810-791,TH
+909,Kut Chap,Thailand,33647,TH
+910,Narathiwat,Thailand,33621,TH
+911,Narathiwat,Thailand,649-6382,TH
+912,Nong Saeng,Thailand,649-6374,TH
+913,Phichai,Thailand,-527841,TH
+914,Ranot,Thailand,692808,TH
+915,Sam Roi Yot,Thailand,33664,TH
+916,Samran,Thailand,353746,TH
+917,Su-ngai Kolok,Thailand,48809480,TH
+918,Su-ngai Kolok,Thailand,649-6331,TH
+919,Thap Than,Thailand,365 01,TH
+920,Thap Than,Thailand,380 01,TH
+921,Wang Nam Khiao,Thailand,649-6373,TH
+922,NotsÃ©,Togo,353 01,TG
+923,Couva,Trinidad and Tobago,649-6332,TT
+924,Rio Claro,Trinidad and Tobago,40051640,TT
+925,Siparia,Trinidad and Tobago,50276250,TT
+926,Biâ€™r al á¸¨ufayy,Tunisia,692776,TN
+927,Siliana,Tunisia,15967580,TN
+928,Skhira,Tunisia,383 01,TN
+929,Alebtong,Uganda,649-6344,UG
+930,Kasese,Uganda,649-6373,UG
+931,Kisoro,Uganda,-2448417,UG
+932,Ngora,Uganda,12731274,UG
+933,Ntungamo,Uganda,-1168033,UG
+934,Andrushivka,Ukraine,359 01,UA
+935,Bila Tserkva,Ukraine,-5169233,UA
+936,Hupalivka,Ukraine,692780,UA
+937,Krasnopillya,Ukraine,649-6361,UA
+938,Krasnyy Luch,Ukraine,649-6341,UA
+939,Mospyne,Ukraine,353718,UA
+940,Novyy Starodub,Ukraine,33657,UA
+941,Pavlysh,Ukraine,-2.40E+07,UA
+942,Pohrebyshche,Ukraine,19799135,UA
+943,Richky,Ukraine,649-6370,UA
+944,Rozhniv,Ukraine,383 01,UA
+945,Semenivka,Ukraine,25693230,UA
+946,Tomakivka,Ukraine,3810-798,UA
+947,Tyvriv,Ukraine,112351.3,UA
+948,Uyutne,Ukraine,649-6377,UA
+949,Zaozerne,Ukraine,3810-773,UA
+950,Allentown,United States,17062310,US
+951,Atlanta,United States,692809,US
+952,Birmingham,United States,39504275,US
+953,Buffalo,United States,-1.90E+07,US
+954,Charlotte,United States,649-6346,US
+955,Chesapeake,United States,31056798,US
+956,Chicago,United States,41693735,US
+957,Decatur,United States,393 01,US
+958,Decatur,United States,993-0075,US
+959,Fairbanks,United States,404 01,US
+960,Fort Smith,United States,353750,US
+961,Grand Junction,United States,387 01,US
+962,Hamilton,United States,25272785,US
+963,Inglewood,United States,3810-780,US
+964,Kansas City,United States,353748,US
+965,Lubbock,United States,33649,US
+966,Newport Beach,United States,37314294,US
+967,Pasadena,United States,-2.50E+07,US
+968,Phoenix,United States,692789,US
+969,Phoenix,United States,58662050,US
+970,Pompano Beach,United States,3810-799,US
+971,Provo,United States,359 01,US
+972,Reno,United States,3810-771,US
+973,Sacramento,United States,-6449617,US
+974,Sacramento,United States,393 01,US
+975,Salt Lake City,United States,353771,US
+976,San Francisco,United States,395 01,US
+977,Santa Cruz,United States,49829286,US
+978,Shawnee Mission,United States,993-0039,US
+979,Washington,United States,3810-807,US
+980,Wilkes Barre,United States,987-0384,US
+981,Delta del Tigre,Uruguay,33639,UY
+982,Tarariras,Uruguay,8708598,UY
+983,Chust Shahri,Uzbekistan,353760,UZ
+984,QÅ­rghontepa,Uzbekistan,-8210145,UZ
+985,Mene de Mauroa,Venezuela,3810-788,VE
+986,PÃ­ritu,Venezuela,-2.30E+07,VE
+987,San Juan de Manapiare,Venezuela,649-6335,VE
+988,Santa MarÃ­a de Ipire,Venezuela,-1.60E+07,VE
+989,Báº¿n Cáº§u,Vietnam,33622,VN
+990,NghÄ©a HÃ nh,Vietnam,39549114,VN
+991,TÃ¢n PhÃº,Vietnam,3810-765,VN
+992,TÃ¢y Há»“,Vietnam,987-0398,VN
+993,Mata-Utu,Wallis and Futuna,356 01,WF
+994,BanÄ« an NahÄrÄ«,Yemen,357 01,YE
+995,Petauke,Zambia,26914880,ZM
+996,Petauke,Zambia,3810-763,ZM
+997,Senanga,Zambia,353717,ZM
+998,Inyati,Zimbabwe,33655,ZW
+999,Macheke,Zimbabwe,33650,ZW
+1000,Raffingora,Zimbabwe,368 01,ZW
